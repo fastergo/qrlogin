@@ -1,0 +1,2 @@
+# qrlogin
+qrlogin fastergo
